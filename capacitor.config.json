@@ -3,5 +3,4 @@
   "appName": "Mario with Ariaا",
   "webDir": "www",
   "android": { "backgroundColor": "#111111" }
-  npx @capacitor/assets generate
 }
