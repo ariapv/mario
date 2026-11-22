@@ -1,6 +1,6 @@
 {
   "appId": "com.aria.mario",
-  "appName": "Mario with Ariaا",
+  "appName": "Mario with Aria",
   "webDir": "www",
   "android": { "backgroundColor": "#111111" }
 }
