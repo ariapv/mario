@@ -1,0 +1,6 @@
+{
+  "appId": "com.aria.mario",
+  "appName": "ماریو با آریا",
+  "webDir": "www",
+  "android": { "backgroundColor": "#111111" }
+}
